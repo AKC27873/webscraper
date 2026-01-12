@@ -10,7 +10,6 @@ pkgs.mkShell {
     python312Packages.lxml
     python312Packages.click
     python312Packages.rich
-    python312Packages.aiosqlite
     python312Packages.playwright
 
     # Runtime tools
